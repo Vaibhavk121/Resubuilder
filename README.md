@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,gcp" />
 </p>
 
 ## ✨ Features
