@@ -69,7 +69,7 @@ Check out the live application: [ResuBuilder](https://resubilder-frontend.vercel
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Vaibhavthestudent/Resubuilder-Complete.gitt
+git clone https://github.com/Vaibhavk121/Resubuilder-Complete.gitt
 cd Resubuilder-Complete
 ```
 2. **Install dependencies**
